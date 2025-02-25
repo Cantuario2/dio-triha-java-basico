@@ -1,6 +1,7 @@
-# Dio - Bootcamp Java Cloud
+# Dio - Bootcamp Java Cloud Native
 ## Trilha: Java Básico
 
-Repositório para o projeto terminal da seção "Simulando uma Conta Bancária no Terminal".
+Repositório para os projetos Java do bootcamp.
 
-cantuario2 - 21/02/2025
+cantuario2 - 24/02/2025
+### Rev. 01
