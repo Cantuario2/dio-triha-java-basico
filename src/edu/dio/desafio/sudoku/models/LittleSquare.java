@@ -27,7 +27,7 @@ public class LittleSquare {
 		return expected;
 	}
 
-	protected boolean isFixed() {
+	public boolean isFixed() {
 		return fixed;
 	}
 
