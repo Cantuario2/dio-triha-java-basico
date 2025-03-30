@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainController {
 	@GetMapping("/")
 	private ResponseEntity<String> home() {
-		return ResponseEntity.ok("Cantuario2 Banking RESTFull API with Spring Boot 21");
+		return ResponseEntity.ok("Cantuario2 Banking RESTFull API with Java 21 e Spring Boot");
 	}
 
 }
