@@ -35,5 +35,5 @@ Pronto! A VM foi criada!
 
 - Linux: para acesso remoto com um computador utilizando o Linux, utilize o VNC Viewer (testado). Baixe o arquivo RDP para o seu computador Linux. Instale o VNC Viewer para Linux (apt-get install -y vncviewer) e depois de concluir a instalação, feche e abra novamente o terminal. Então, digite "vncviewer /home/<seu_usuario>/Downloads/arquivo.rdp" e então será solicitado a inserção do nome de usuário e senha da VM do Windows na Azure, então insira as credenciais do usuário adm informadas no ato da criação da VM.
 
-Cantuario2 - 15/04/2025
-### Rev. 00
+Cantuario2 - 16/04/2025
+### Rev. 01
